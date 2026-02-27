@@ -1,25 +1,8 @@
-<img align="left" width="170"
-src="https://raw.githubusercontent.com/jattu8602/jattu8602/main/cat.gif" />
+<img align="left" width="180"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z0dGZrN2R5M2p6Y3d1cWl1a2Y1bWZ4b2F4aG5zZ2ZpZ2ZqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" />
 
-<img align="right" width="150"
-src="https://raw.githubusercontent.com/jattu8602/jattu8602/main/unicorn.gif" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-?font=Orbitron
-&size=32
-&duration=3000
-&pause=1000
-&color=00F7FF
-&center=true
-&vCenter=true
-&width=800
-&lines=WELCOME+TO+MY;GITHUB+PROFILE" />
-</p>
-
-<h1 align="center">👋 I'm Anshul Rajoriya</h1>
-
-<!--
+<img align="right" width="160"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V4Y3JqMWk1dWNnZzNta2h4eTRvZDN1b3M0c3B6Y3p0NWVjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" />
 **anshulrajoriya/anshulrajoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
