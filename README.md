@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Anshul Rajoriya</h1>
-
 <p align="center">
-  <b>Always improving skills 🚀</b>
+  <h1 align="center">Hi 👋, I'm Anshul Rajoriya</h1>
+  <p align="center"><b>Always improving skills 🚀</b></p>
 </p>
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=55&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=120&lines=WELCOME+TO+MY;GITHUB+PROFILE" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=60&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=150&lines=Welcome+To+My;GitHub+Profile" />
+</p>
 
 ---
 
@@ -23,7 +22,7 @@
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
 - 👨‍💻 I build responsive frontends & scalable backend systems.
 - 🌱 Constantly learning and improving my skills.
@@ -34,13 +33,13 @@
 ## 🐱 I love code & unicorns
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200px"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -54,7 +53,7 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,css,html,java,js,firebase,gcp,python,react,mysql,mongodb,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,css,html,js,react,nodejs,express,mongodb,git,github" />
 </p>
 
 ---
@@ -62,12 +61,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
