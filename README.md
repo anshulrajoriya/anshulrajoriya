@@ -1,9 +1,7 @@
 <img align="left" width="180"
 src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-
 <img align="right" width="160"
-src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
-
+src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/unicorn.gif" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com
 ?font=Orbitron
