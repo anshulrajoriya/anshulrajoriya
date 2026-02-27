@@ -1,45 +1,49 @@
+<h1 align="center">Hi 👋, I'm Anshul Rajoriya</h1>
 
-<p align="center">
-I’m <b>Anshul Rajoriya</b>, a passionate Full Stack Developer in the making.<br>
-I build responsive frontends and scalable backend systems.<br><br>
+<h3 align="center">Always improving skills 🚀</h3>
 
-<p align="center">
-  <img src="./welcome-header.gif" width="100%" />
-</p>
+---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+%2B+Backend+Developer;Building+real-world+projects;Always+improving+my+skills" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshulrajoriya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anshulrajoriya&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github&theme=dark" />
-</p>
+---
+
+## 🙋‍♂️ About Me
+
+- 👨‍💻 I’m Anshul Rajoriya, a passionate Full Stack Developer in the making.  
+- 🌐 I build responsive frontends and scalable backend systems.  
+- 💡 Always learning and exploring new technologies  
+- 🚀 Goal: To become a professional Full Stack Developer  
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <img src="./cat-typing.gif" width="120">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<p align="right">
-  <img src="./unicorn.gif" width="120">
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
 </p>
 
-<br clear="both">
-<h2 align="center">👨‍💻 Who Am I?</h2>
+---
 
-
-
-🎓 Full Stack Development Student<br>
-⚙️ Frontend + Backend Developer<br>
-🚀 Learning phase completed — now focused on real projects<br>
-💡 Always improving problem-solving and clean code practices
-</p>
-<h3 align="center">📌 What I’m Doing Now</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-🔨 Building full stack projects<br>
-🌱 Improving DSA & backend logic<br>
-🤝 Open to collaboration & learning
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+---
+
+⭐ Always improving. Always building.
