@@ -1,6 +1,6 @@
 <!-- INTRO TEXT (SABSE UPAR) -->
 <p align="center">
-<h1>  Hey, I’m <b>Anshul Rajoriya</b> 👋<H1> <br>
+<h1>  Hey, I’m <b>Anshul Rajoriya</b> 👋<H1> 
 <H3>  🎓 Full Stack Development Student,
   💻 Frontend + Backend Developer,
   🚀 Building real-world projects<H3>
