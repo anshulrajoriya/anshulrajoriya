@@ -13,3 +13,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github&theme=dark" />
 </p>
+<p align="left">
+  <img src="./cat-typing.gif" width="120">
+</p>
+
+<p align="right">
+  <img src="./unicorn.gif" width="120">
+</p>
+
+<br clear="both">
+<h2 align="center">👋 Who Am I?</h2>
+
+<p align="center">
+🎓 Full Stack Development Student <br>
+💻 Frontend & Backend Developer <br>
+🚀 Learning phase completed, now building real-world projects <br>
+🎯 Focused on clean code, logic & practical skills
+</p>
