@@ -22,11 +22,21 @@
 </p>
 
 <br clear="both">
-<h2 align="center">👋 Who Am I?</h2>
+<h2 align="center">👨‍💻 Who Am I?</h2>
 
 <p align="center">
-🎓 Full Stack Development Student <br>
-💻 Frontend & Backend Developer <br>
-🚀 Learning phase completed, now building real-world projects <br>
-🎯 Focused on clean code, logic & practical skills
+I’m <b>Anshul Rajoriya</b>, a passionate Full Stack Developer in the making.<br>
+I build responsive frontends and scalable backend systems.<br><br>
+
+🎓 Full Stack Development Student<br>
+⚙️ Frontend + Backend Developer<br>
+🚀 Learning phase completed — now focused on real projects<br>
+💡 Always improving problem-solving and clean code practices
+</p>
+<h3 align="center">📌 What I’m Doing Now</h3>
+
+<p align="center">
+🔨 Building full stack projects<br>
+🌱 Improving DSA & backend logic<br>
+🤝 Open to collaboration & learning
 </p>
