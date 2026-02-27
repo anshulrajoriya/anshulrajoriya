@@ -1,16 +1,11 @@
-<!-- LEFT CAT -->
-<img align="left" width="170"
-src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" />
+</td>
 
-<!-- RIGHT UNICORN -->
-<img align="right" width="170"
-src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/unicorn.gif" />
-
-<!-- CENTER TEXT -->
-<h1 align="center">👋 I'm Anshul Rajoriya</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
+<td width="50%" align="center">
+<img src="https://readme-typing-svg.demolab.com
 ?font=Orbitron
 &size=30
 &duration=3000
@@ -18,14 +13,19 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-rea
 &color=00F7FF
 &center=true
 &vCenter=true
-&width=800
+&width=600
 &lines=WELCOME+TO+MY;GITHUB+PROFILE" />
+<br><br>
+<h2>👋 I'm Anshul Rajoriya</h2>
+<p>
+🚀 Full Stack Developer (Frontend + Backend)<br>
+💻 Student & Project Builder<br>
+🔥 Learning complete, now building real projects
 </p>
+</td>
 
-<br clear="both">
-
-<p align="center">
-🚀 Full Stack Developer (Frontend + Backend)  
-💻 Passionate about building real-world projects  
-🔥 Learning completed, now building & improving
-</p>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/unicorn.gif" width="160" />
+</td>
+</tr>
+</table>
