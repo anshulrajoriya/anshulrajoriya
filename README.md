@@ -24,3 +24,13 @@
 
 </tr>
 </table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+%2B+Backend+Developer;Building+real-world+projects;Always+improving+my+skills" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshulrajoriya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anshulrajoriya&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github&theme=dark" />
+</p>
