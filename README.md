@@ -2,28 +2,7 @@
   <img src="./welcome-header.gif" width="100%" />
 </p>
 
-<table width="100%">
-<tr>
 
-<td width="25%" align="center">
-  <img src="./cat-typing.gif" width="160" />
-</td>
-
-<td width="50%" align="center">
-  <h1>👋 I'm Anshul Rajoriya</h1>
-  <p>
-    🎓 Full Stack Development Student <br>
-    💻 Frontend + Backend Developer <br>
-    🚀 Learning complete, now building projects
-  </p>
-</td>
-
-<td width="25%" align="center">
-  <img src="./unicorn.gif" width="160" />
-</td>
-
-</tr>
-</table>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+%2B+Backend+Developer;Building+real-world+projects;Always+improving+my+skills" />
 </p>
