@@ -1,4 +1,23 @@
-## Hi there 👋
+<img align="left" width="170"
+src="https://raw.githubusercontent.com/jattu8602/jattu8602/main/cat.gif" />
+
+<img align="right" width="150"
+src="https://raw.githubusercontent.com/jattu8602/jattu8602/main/unicorn.gif" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+?font=Orbitron
+&size=32
+&duration=3000
+&pause=1000
+&color=00F7FF
+&center=true
+&vCenter=true
+&width=800
+&lines=WELCOME+TO+MY;GITHUB+PROFILE" />
+</p>
+
+<h1 align="center">👋 I'm Anshul Rajoriya</h1>
 
 <!--
 **anshulrajoriya/anshulrajoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
