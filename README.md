@@ -8,7 +8,7 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+**i love to do code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and chase a goal like running**&nbsp;&nbsp;![](unicorn.gif)
 
 
 <div align="left">
