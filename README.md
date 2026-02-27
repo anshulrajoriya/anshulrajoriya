@@ -1,3 +1,8 @@
+
+<p align="center">
+I’m <b>Anshul Rajoriya</b>, a passionate Full Stack Developer in the making.<br>
+I build responsive frontends and scalable backend systems.<br><br>
+
 <p align="center">
   <img src="./welcome-header.gif" width="100%" />
 </p>
@@ -24,9 +29,7 @@
 <br clear="both">
 <h2 align="center">👨‍💻 Who Am I?</h2>
 
-<p align="center">
-I’m <b>Anshul Rajoriya</b>, a passionate Full Stack Developer in the making.<br>
-I build responsive frontends and scalable backend systems.<br><br>
+
 
 🎓 Full Stack Development Student<br>
 ⚙️ Frontend + Backend Developer<br>
