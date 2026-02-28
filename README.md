@@ -50,7 +50,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_anshulrajoriya&theme=dark" />
+</p>
 
 
 
