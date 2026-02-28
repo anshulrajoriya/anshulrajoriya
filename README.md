@@ -12,9 +12,9 @@
 
 
 <div align="left">
-      <img src="https://komarev.com/ghpvc/?username=jattu8602&label=Profile%20views&color=0e75b6&style=flat" alt="jattu8602" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/jattu8602?style=social">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/jattu8602?style=social">
+      <img src="https://komarev.com/ghpvc/?username=anshulrajoriya&label=Profile%20views&color=0e75b6&style=flat" />
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/anshulrajoriya?style=social">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/anshulrajoriya?style=social">
 </div>
 
 ## 🖐️ About Me
