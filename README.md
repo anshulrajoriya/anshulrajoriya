@@ -7,7 +7,7 @@
 	<br>
 </div>
 
-**i love to code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and build**&nbsp;&nbsp;<img src="<img src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7" width="100">" width="120">**even for penguins!**&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ4NjZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/penguin.gif" width="100">
+**i love to code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and build**&nbsp;&nbsp;<img src="https://github.com/anshulrajoriya/anshulrajoriya/raw/main/image_6560ff.png" width="120">**even for penguins!**&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ4NjZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/penguin.gif" width="100">
 
 <div align="left">
       <img src="https://komarev.com/ghpvc/?username=anshulrajoriya&label=Profile%20views&color=0e75b6&style=flat" alt="anshulrajoriya" />
