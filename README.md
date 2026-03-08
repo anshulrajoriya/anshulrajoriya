@@ -7,8 +7,7 @@
 	<br>
 </div>
 
-**i love to code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**to build**&nbsp;&nbsp;![](giphy)**and also!**&nbsp;&nbsp;;![](hello-penguin.gif) width="100">
-
+**i love to code**&nbsp;&nbsp;<img src="cat-typing.gif" width="60" align="center">&nbsp;&nbsp;**to build**&nbsp;&nbsp;<img src="giphy.gif" width="60" align="center">&nbsp;&nbsp;**and also!**&nbsp;&nbsp;<img src="hello-penguin.gif" width="60" align="center">
 <div align="left">
       <img src="https://komarev.com/ghpvc/?username=anshulrajoriya&label=Profile%20views&color=0e75b6&style=flat" alt="anshulrajoriya" />
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/anshulrajoriya?style=social">
