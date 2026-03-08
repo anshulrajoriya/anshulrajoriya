@@ -7,7 +7,7 @@
 	<br>
 </div>
 
-**i love to code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**to build**&nbsp;&nbsp;![](hello-penguin.gif)**and also!**&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ4NjZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/penguin.gif" width="100">
+**i love to code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**to build**&nbsp;&nbsp;![](giphy)**and also!**&nbsp;&nbsp;;![](hello-penguin.gif) width="100">
 
 <div align="left">
       <img src="https://komarev.com/ghpvc/?username=anshulrajoriya&label=Profile%20views&color=0e75b6&style=flat" alt="anshulrajoriya" />
