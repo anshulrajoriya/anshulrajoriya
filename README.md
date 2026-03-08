@@ -7,7 +7,7 @@
 	<br>
 </div>
 
-**i love to code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and build**&nbsp;&nbsp;<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">**even for penguins!**&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ4NjZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/penguin.gif" width="30">
+**i love to code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and build**&nbsp;&nbsp;<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50">**even for penguins!**&nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ4NjZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/penguin.gif" width="50">
 
 <div align="left">
       <img src="https://komarev.com/ghpvc/?username=anshulrajoriya&label=Profile%20views&color=0e75b6&style=flat" alt="anshulrajoriya" />
@@ -18,7 +18,7 @@
 ## 🖐️ About Me
 - i'm **Anshul Rajoriya** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 - i'm **Full-stack Development**
-- Primary Focus: improving skill and to learn new technology.
+- Primary Focus: **improving skill and to learn new technology**.
 
 ## 🌐 Connect With Me
 
